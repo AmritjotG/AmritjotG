@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AmritjotG
+- 👀 I’m interested in the cutting edge of technology
+- 🌱 I’m currently an Electrical Engineerung Student
+- 💞️ I’m looking to collaborate on Electrical and Software combination projects.
+- 📫 I can be contacted through my email : amritjot.ghotra@ontariotechu.net
