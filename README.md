@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmritjotG
 - 👀 I’m interested in the cutting edge of technology
-- 🌱 I’m currently an Electrical Engineerung Student
+- 🌱 I’m an Electrical Engineer
 - 💞️ I’m looking to collaborate on Electrical and Software combination projects.
 - 📫 I can be contacted through my email : amritjot.ghotra@ontariotechu.net
 - 📫 CHECK OUT MY LATEST PROJECT! https://github.com/AmritjotG/JoyStick_Pi_Pico_HID_Control
